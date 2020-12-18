@@ -71,7 +71,11 @@ for(let i=0; i<hw.length;i++){
 }
 
 toppingType();
+
 batterType();
+
 AVGppu();
+
 SUMppu();
+
 IDs();
